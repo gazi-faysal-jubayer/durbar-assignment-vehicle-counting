@@ -1,0 +1,5 @@
+simple-image-download==0.4
+numpy==1.26.4
+opencv-python==4.9.0.80
+pandas==2.8.2
+pillow==10.3.0
